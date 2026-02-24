@@ -109,22 +109,22 @@ titanic-survival-eda/
 ## 📊 Dashboard Preview  
 
 ### 1️⃣ Survival by gender 
-![Survival by Class](images/survival_by_gender.PNG)
+![Survival by Class](Images/survival_by_gender.PNG)
 
 ---
 
 ### 2️⃣ Fare by Survival
-![Fare vs Survival](images/fare_vs_survival_boxplot.PNG)
+![Fare vs Survival](Images/fare_vs_survival_boxplot.PNG)
 
 ---
 
 ### 3️⃣ Survival by Pclass  
-![Survival by Pclass](images/survival_by_pclass.PNG)
+![Survival by Pclass](Images/survival_by_pclass.PNG)
 
 ---
 
 ### 3️⃣ Correlation heatmap  
-![Correlation Heatmap](images/correlation_heatmap.PNG)
+![Correlation Heatmap](Images/correlation_heatmap.PNG)
 
 ---
 

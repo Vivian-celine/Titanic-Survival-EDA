@@ -86,7 +86,7 @@ Correlation analysis
 ---
 
 ```
-📁 Recommended Repository Structure
+## 📁 Recommended Repository Structure
 titanic-survival-eda/
 │
 ├── README.md

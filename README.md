@@ -106,6 +106,28 @@ titanic-survival-eda/
 
 ---
 
+## 📊 Dashboard Preview  
+
+### 1️⃣ Survival by gender 
+![Survival by Class](images/survival_by_gender.PNG)
+
+---
+
+### 2️⃣ Fare by Survival
+![Fare vs Survival](images/fare_vs_survival_boxplot.PNG)
+
+---
+
+### 3️⃣ Survival by Pclass  
+![Survival by Pclass](images/survival_by_pclass.PNG)
+
+---
+
+### 3️⃣ Correlation heatmap  
+![Correlation Heatmap](images/correlation_heatmap.PNG)
+
+---
+
 ## 🔎 Key Insights
 👩 Gender as a Major Determinant
 

@@ -5,6 +5,8 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to 
 
 The analysis focuses on understanding how demographic characteristics, socio-economic status, and family structure affected survival outcomes.
 
+---
+
 ## 📂 Dataset Information
 
 Source: Titanic Train Dataset (train.csv)
@@ -12,6 +14,8 @@ Source: Titanic Train Dataset (train.csv)
 Total Rows: 891
 
 Total Columns: 12
+
+---
 
 ## 🧹 Data Cleaning Process
 
@@ -51,6 +55,8 @@ Grouped rare titles into "Rare"
 
 This marked the completion of data cleaning.
 
+---
+
 ## 📊 Exploratory Data Analysis (EDA)
 
 The following analyses were conducted:
@@ -76,6 +82,29 @@ Survival rate by Pclass and Sex
 Survival rate by Title
 
 Correlation analysis
+
+---
+
+```
+📁 Recommended Repository Structure
+titanic-survival-eda/
+│
+├── README.md
+│
+├── train.csv
+│
+├── notebooks/
+│   └── titanic_analysis.ipynb
+│
+├── images/
+    ├── survival_by_gender.png
+    ├── fare_vs_survival_boxplot.png
+    ├── survival_by_pclass.png
+    └── correlation_heatmap.png
+
+```
+
+---
 
 ## 🔎 Key Insights
 👩 Gender as a Major Determinant
@@ -143,6 +172,8 @@ NumPy
 Matplotlib
 
 Seaborn
+
+---
 
 ## 🎯 Conclusion
 
